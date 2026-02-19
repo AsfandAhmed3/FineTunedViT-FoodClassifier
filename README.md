@@ -1,6 +1,6 @@
 
 
-# 🍕 Food-101 Image Classifier — Powered by ViT & LoRA
+# 🍕 FineTunedViT-FoodClassifier — Powered by ViT & LoRA
 
 Welcome to the **Food-101 Image Classifier**! 🚀
 
